@@ -17,10 +17,16 @@ The following is the list of items, which are required to be completed.
 ## Team
 
 It is recommended to complete this assignment in a group of 2-4 students.
-1. Student 1
-2. Student name 2
-3. Name 3
-4. Name 4
+1. Jiaqi Shi
+2. Sirui Li
+3. Qinuo Shen
+
+## Project Setup
+
+Project Name: MyClean App
+Project Objective: Develop a website, desktop, or mobile application for managing cleaning service bookings.
+Team Members: Jiaqi Shi
+Technology Stack: Frontend (React), Backend (Node.js), Database (MySQL), Cloud Services (AWS)
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
