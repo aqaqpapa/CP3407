@@ -23,10 +23,10 @@ It is recommended to complete this assignment in a group of 2-4 students.
 
 ## Project Setup
 
-* Project Topic: Clean up APP/Website
-* Project Name: MyClean App/Website
-* Project Objective: Develop a website/desktop/mobile application for managing cleaning service bookings.
-* Team Members: Jiaqi Shi
+* Project Topic: Cleaning Service Booking System
+* Project Name: MyClean Website
+* Project Objective: Develop a cross-platform application (web, desktop, and mobile) for managing cleaning service bookings.
+* Team Members: Jiaqi Shi, Sirui Li, Qinuo Shen
 * Technology Stack: Frontend (React), Backend (Node.js), Database (MySQL), Cloud Services (AWS)
 
 
