@@ -55,7 +55,7 @@ Total: 20 days
 3. Userstory 3 High 2 days
 4. Userstory 4 High 2 days
 
-Total: YY days
+Total: 10 days
 
 
 ### Iteration 2 [duration 3-4 weeks], add your start and end dates
