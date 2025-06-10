@@ -50,10 +50,10 @@ Total: 20 days
 * Update the following during each week prac session
 * During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
 
-1. Userstory 1 High 3 days
-2. Userstory 2 High 3 days
-3. Userstory 3 High 2 days
-4. Userstory 4 High 2 days
+1. Userstory 1 View and Manage Booking Schedule High 3 days
+2. Userstory 2 Search and Filter Cleaning Services  High 3 days
+3. Userstory 3 Secure and Convenient Payment  High 2 days
+4. Userstory 4 Manage Booking Requests  Medium 2 days
 
 Total: 10 days
 
