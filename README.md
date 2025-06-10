@@ -50,8 +50,10 @@ Total: 20 days
 * Update the following during each week prac session
 * During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+1. Userstory 1 High 3 days
+2. Userstory 2 High 3 days
+3. Userstory 3 High 2 days
+4. Userstory 4 High 2 days
 
 Total: YY days
 
