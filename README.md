@@ -28,8 +28,8 @@ It is recommended to complete this assignment in a group of 2-4 students.
 * Project Overview: MyClean is a web platform designed to streamline the booking and management of cleaning services. It connects customers with cleaning service providers, offering features like viewing and managing booking schedules, searching for services, secure payment options, and communication tools. The platform aims to simplify the process of finding and booking reliable cleaning services while providing providers with efficient management tools.
 * Project Goals: The project aims to create a user-friendly platform for booking and managing cleaning services, enabling customers to search, filter, and evaluate cleaning service providers based on location, ratings, and reviews. It seeks to provide secure and diverse payment options for customers and efficient payment management tools for service providers, while facilitating seamless communication between customers and service providers to clarify service details and resolve issues. Additionally, the project aims to offer service providers tools to manage bookings, set service details and pricing, and generate income reports. It also intends to ensure a transparent and smooth booking modification and cancellation process with appropriate notifications, and establish a system for service providers to receive timely payments and generate invoices. Through this project, I also aim to enhance my skills in full-stack development and cloud application capabilities.
 * Team Roles: Jiaqi Shi：Project Manager，Front-End Develope，Back-End Developer
-* Sirui Li, Qinuo Shen
-* Technology Stack: Frontend (React), Backend (Node.js), Database (MySQL), Cloud Services (AWS)
+* Sirui Li, Qinuo Shen:(pending)
+* Technology Stack: Frontend (React), Backend (Node.js), Database (Json), Cloud Services (AWS)
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
