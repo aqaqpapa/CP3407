@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "username": "aqaqaqq",
+    "email": "abc@example.com",
+    "role": "Provider",
+    "providerInfo": {
+      "location": "Updated Location",
+      "hourlyRate": "30",
+      "description": "Updated description",
+      "serviceTypes": [
+        "bathroom",
+        "kitchendongowrong"
+      ],
+      "available": true
+    },
+    "password": "123456"
+  },
+  {
+    "id": 2,
+    "username": "aqaqaqq",
+    "email": "164823347@qq.com",
+    "role": "Customer",
+    "customerInfo": {
+      "location": "Down town",
+      "description": "i am handsome"
+    },
+    "password": "asdfgh123"
+  },
+  {
+    "id": 3,
+    "username": "alice",
+    "email": "alice@example.com",
+    "role": "Provider",
+    "providerInfo": {
+      "serviceTypes": [
+        "Home Cleaning???"
+      ],
+      "location": "Downtown",
+      "hourlyRate": 30,
+      "description": "Test",
+      "available": true
+    },
+    "password": "asdfgh123"
+  },
+  {
+    "id": 4,
+    "username": "帅哥",
+    "email": "Bill17395714185@gmail.com",
+    "password": "asdfgh123",
+    "role": "Customer"
+  },
+  {
+    "id": 5,
+    "username": "superstar",
+    "email": "18213213@qq.com",
+    "password": "asdfgh123",
+    "role": "Customer"
+  },
+  {
+    "id": 6,
+    "username": "bad boy",
+    "email": "tgeq798@outlook.com",
+    "role": "Provider",
+    "providerInfo": {
+      "serviceTypes": [
+        "？？？"
+      ],
+      "location": "Downtowndwawd",
+      "hourlyRate": "100",
+      "description": "？？？？？",
+      "available": true
+    },
+    "password": "asdfgh123"
+  },
+  {
+    "id": 7,
+    "username": "12345",
+    "email": "123@qq.com",
+    "role": "Provider",
+    "providerInfo": {
+      "serviceTypes": [
+        "111"
+      ],
+      "location": "11",
+      "hourlyRate": "10000",
+      "description": ">>",
+      "available": true
+    },
+    "password": "asdfgh123"
+  }
+]
