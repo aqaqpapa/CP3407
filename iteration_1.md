@@ -26,6 +26,14 @@
     * Task - 3: Booking Logic & Time Conflict Handling (Express + MySQL), priority High, estimated 1 day
     * Task - 4: Testing & Documentation (React + Express), priority Medium, estimated 0.5 days
 
+### Story 2
+
+  * **User Story**: Search and Filter Cleaning Services, priority High, estimated 3 days
+  * **Tasks**:
+    * Task - 1: React UI Design & Implementation (React), priority High, estimated 1.5 days
+    * Task - 2: Express API Development & Integration (Express + MySQL), priority High, estimated 1 day
+    * Task - 3: Search & Filter Logic Implementation (Express + MySQL), priority High, estimated 1 day
+    * Task - 4: Testing & Documentation (React + Express), priority Medium, estimated 0.5 days
 
 ### Story 3
 
