@@ -14,7 +14,7 @@ User stories or tasks (see chapter 4):
 
 In progress:
 * Task-2 (developer name or initials), date started
-* ...
+* .....
 
 Completed:
 * Task-3 (developer name or initials), date completed
