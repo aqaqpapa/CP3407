@@ -45,7 +45,7 @@
 
 ### Story 4
 
-  * **User Story**: Provider Manage Booking Requests, priority Medium, estimated 2 days
+  * **User Story**: Manage Booking Requests, priority Medium, estimated 2 days
   * **Tasks**:
     * Task - 1: Booking Requests UI & Interaction Implementation (React), priority Medium, estimated 1 day
     * Task - 2: Backend Booking Requests API & Status Update Logic (Express + MySQL), priority Medium, estimated 0.8 days
@@ -73,7 +73,7 @@
   * **Tasks**:
     * Task - 1: Orders Management UI & Payment History Interface Implementation (React), priority Medium, estimated 1 day
     * Task - 2: Backend API for Orders Modification & Payment Records (Express + MySQL), priority Medium, estimated 0.8 days
-    * Task - 3: Testing & Documentation (React + Express), priority Medium, estimated 0.2 days
+    * Task - 3: Testing & Documentation (React + Express), priority Medium, estimated 0.2 days  
 
 ## In progress:
 
