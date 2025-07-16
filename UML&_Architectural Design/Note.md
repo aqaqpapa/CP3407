@@ -1,1 +1,1 @@
-(UML_Architectural Design/images/ERD.jpg)
+![ERD](UML_Architectural_Design/images/ERD.jpg)
