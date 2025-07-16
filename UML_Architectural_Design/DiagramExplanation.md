@@ -35,7 +35,7 @@
 
 ### Core Relationships
 
-- Users register/login, search for cleaners, book them, pay, write reviews, and receive notifications.
+- Users register/login, search for cleaners, book them, to pay, write reviews, and receive notifications.
 - Cleaners update availability, confirm bookings, view schedules, and get paid & reviewed.
 
 ---
