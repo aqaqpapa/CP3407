@@ -1,1 +1,1 @@
-(UML&Architectural Design/images/ERD.png)
+(UML_Architectural Design/images/ERD.png)
