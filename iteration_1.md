@@ -86,7 +86,7 @@
   * ...
 
 ## Burn Down for iteration - 1 (see chapter 4):
-
+![BurnDown](BurnDown.png)
 **Update this at least once per week**
 
   * 4 weeks left, xx days of estimated amount of work
