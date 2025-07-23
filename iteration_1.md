@@ -9,11 +9,11 @@
   * GitHub entry timestamps
   * User stories are correct: see p39
 
-*Assumed Velocity*: ?? 
+*Assumed Velocity*: 4days/week 
 
-*Number of developers*: ??
+*Number of developers*: 3
 
-*Total estimated amount of work*: YY days
+*Total estimated amount of work*: 40 days
 
 ## User stories or tasks (see chapter 4):
 
