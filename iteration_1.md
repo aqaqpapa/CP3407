@@ -75,22 +75,19 @@
     * Task - 2: Backend API for Orders Modification & Payment Records (Express + MySQL), priority Medium, estimated 0.8 days
     * Task - 3: Testing & Documentation (React + Express), priority Medium, estimated 0.2 days
 
-## In progress:
 
-  * Task - 2 (developer name or initials), date started
-  * ...
-
-## Completed:
-
-  * Task - 3 (developer name or initials), date completed
-  * ...
 
 ## Burn Down for iteration - 1 (see chapter 4):
 ![BurnDown](BurnDown.png)
 **Update this at least once per week**
 
-  * 4 weeks left, xx days of estimated amount of work
-  * 2 weeks left, xx days
-  * 1 weeks left, xx days
-  * 0 weeks left, xx days
-  * **Actual Velocity**: ??
+✅ 4 weeks left: 20 days of estimated amount of work
+
+✅ 2 weeks left: 12 days
+
+✅ 1 week left: 5 days
+
+✅ 0 weeks left: 1 day
+
+✅ Actual Velocity: 4.75 days/week
+
