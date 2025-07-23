@@ -112,5 +112,5 @@
 | Week 2        | 3                     |
 | Week 3 (End)  | 0                     |
 
-![BurnDown2](ToolsDia/Burndown.png)
+![BurnDown2](ToolsDia/Burndown.jpg)
 - **Actual Velocity:** 13.5 days / 3 weeks = **4.5 dev-days/week**
