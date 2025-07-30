@@ -29,7 +29,7 @@ It is recommended to complete this assignment in a group of 2-4 students.
 * Project Goals: The project aims to create a user-friendly platform for booking and managing cleaning services, enabling customers to search, filter, and evaluate cleaning service providers based on location, ratings, and reviews. It seeks to provide secure and diverse payment options for customers and efficient payment management tools for service providers, while facilitating seamless communication between customers and service providers to clarify service details and resolve issues. Additionally, the project aims to offer service providers tools to manage bookings, set service details and pricing, and generate income reports. It also intends to ensure a transparent and smooth booking modification and cancellation process with appropriate notifications, and establish a system for service providers to receive timely payments and generate invoices. Through this project, I also aim to enhance my skills in full-stack development and cloud application capabilities.
 * Team Roles: Jiaqi Shi：Project Manager，Front-End Develope，Back-End Developer
 * Sirui Li, Qinuo Shen:(pending)
-* Technology Stack: Frontend (React), Backend (Node.js), Database (Json), Cloud Services (AWS)
+* Technology Stack: Frontend (React), Backend (Express), Database (Mysql), Cloud Services (Render/Vercel/Railway)
 
 
 ## 📌 Iteration 1 (Week 3 – Week 6)
@@ -69,7 +69,7 @@ It is recommended to complete this assignment in a group of 2-4 students.
 - **Story 5**: Improve UI/UX  – *Medium* – 2 days  
 - **Story 6**: End-to-End Testing Setup – *Low* – 3 days  
 
-✅ *Major focus on production-readiness: Cloud deployment (Render/Vercel/Railway), UI polishing, mobile support, and E2E testing framework planned.*
+✅ *Major focus on production-readiness: Cloud deployment (Render/Vercel/Railway), UI polishing, and E2E testing framework planned.*
 
 
 # Actual iterations
