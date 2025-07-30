@@ -78,7 +78,7 @@
 
 
 ## Burn Down for iteration - 1 (see chapter 4):
-![BurnDown](BurnDown.png)
+![ToolsDia/BurnDown](BurnDown.png)
 **Update this at least once per week**
 
 ✅ 4 weeks left: 20 days of estimated amount of work
