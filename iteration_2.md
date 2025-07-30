@@ -25,7 +25,7 @@
 
 ## 📌 User Stories and Tasks
 
-### **Story 1: Deploy Project to Cloud** *(New Function*
+### **Story 1: Deploy Project to Cloud** *(New Function)*
 - **Priority:** High  
 - **Estimated Time:** 2.5 days  
 - **Stack:**
