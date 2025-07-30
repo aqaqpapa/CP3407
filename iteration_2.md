@@ -34,7 +34,7 @@
   - Database: Railway
 - **Tasks:**
   - [ ] **Task 1.1:** Deploy frontend (React) to Vercel – 0.5 day
-  - [x] **Task 1.2:** Deploy backend (Express API) to Render – 1 day *(Completed: 2025-08-10)*
+  - [ ] **Task 1.2:** Deploy backend (Express API) to Render – 1 day *(Completed: 2025-08-10)*
   - [ ] **Task 1.3:** Connect and configure Railway database – 0.5 day *(Started: 2025-08-06, Dev: JS)*
   - [ ] **Task 1.4:** Configure environment variables and HTTPS testing – 0.5 day
 
