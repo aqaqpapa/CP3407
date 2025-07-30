@@ -14,8 +14,7 @@ To ensure critical backend logic functions correctly, **unit tests were directly
 ### ✦ Execution:
 Test functions were written inside relevant controller files (e.g., `authController.js`) and executed manually via local `node` runtime or test endpoints. Console logs were used to display results and validate logic flow.
 
-> ✅ **Example**: Attempted registration with a duplicate email correctly returns a 400 status and error message.  
-> ✅ Database test confirms connection pool initialized without timeout or authentication errors.
+> ✅ **Example**: Before attempting to connect to the database via the front end, automatically output the connection status between the back end and the database first
 
 ![1](ToolsDia/Test1.png)
 ![2](ToolsDia/Test2.png)
