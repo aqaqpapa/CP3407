@@ -32,44 +32,45 @@ It is recommended to complete this assignment in a group of 2-4 students.
 * Technology Stack: Frontend (React), Backend (Node.js), Database (Json), Cloud Services (AWS)
 
 
-# Project planning BEFORE iteration-1, (see chapters 1-3)
-Checklist/TODOs: 
-* Update the following during each week prac session
-* github entry timestamp is BEFORE the iteration-1
-* User stories are correct: see p39
-* Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-* ...
+## 📌 Iteration 1 (Week 3 – Week 6)
 
-Total: 20 days
+- **Total Estimated Work**: 40 dev-days  
+- **Assumed Velocity**: 4 dev-days/week × 3 developers  
+- **Actual Velocity**: ~4.75 dev-days/week  
+- **Total Actual Time Used**: 19 days
 
+### 🔹 User Stories (Total: 16 dev-days)
 
-## Iteration 1 [duration 3-4 weeks], add your start and end dates 
+- **Story 1**: View and Manage Booking Schedule – *High* – 3 days  
+- **Story 2**: Search and Filter Cleaning Services – *High* – 3 days  
+- **Story 3**: Secure and Convenient Payment – *High* – 2 days  
+- **Story 4**: Provider Manage Booking Requests – *Medium* – 2 days  
+- **Story 5**: Evaluate and Communicate with Service Providers – *Medium* – 2 days  
+- **Story 6**: Set Service Details and Pricing – *Medium* – 2 days  
+- **Story 7**: Manage Orders and Payment Records – *Medium* – 2 days  
 
-* Goal is to have 2 iterations during a trimester of teaching.
-* Update the following during each week prac session
-* During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
+✅ *All user stories were implemented with React (frontend) and Express + MySQL (backend). A working booking system with provider interaction, payment, and order management was completed.*
 
-1. Userstory 1 View and Manage Booking Schedule High 3 days
-2. Userstory 2 Search and Filter Cleaning Services  High 3 days
-3. Userstory 3 Secure and Convenient Payment  High 2 days
-4. Userstory 4 Manage Booking Requests  Medium 2 days
+---
 
-Total: 10 days
+## 📌 Iteration 2 (2025-07-15 to 2025-08-03)
 
+- **Total Estimated Work**: 13.5 dev-days  
+- **Actual Velocity**: 4.5 dev-days/week  
+- **Total Actual Time Used**: 13.5 days  
+- **Focus**: Deployment, UX improvement, full test cycle  
 
-### Iteration 2 [duration 3-4 weeks], add your start and end dates
-Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+### 🔹 User Stories (Total: 13.5 dev-days)
 
-Total: YY days
+- **Story 1**: Deploy Project to Cloud – *High* – 4 days  
+- **Story 2**: Provider Booking Request Management – *Medium* – 2 days  
+- **Story 3**: Evaluate and Communicate with Providers – *Medium* – 2 days  
+- **Story 4**: Manage Orders and Payment Records – *Medium* – 2 days  
+- **Story 5**: Improve UI/UX  – *Medium* – 2 days  
+- **Story 6**: End-to-End Testing Setup – *Low* – 3 days  
 
-### Not enough time/developers: 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+✅ *Major focus on production-readiness: Cloud deployment (Render/Vercel/Railway), UI polishing, mobile support, and E2E testing framework planned.*
 
-Total: YY days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
