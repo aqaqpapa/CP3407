@@ -69,11 +69,11 @@
 
 ---
 
-### **Story 5: Improve UI/UX and Mobile Responsiveness** *(Improvement)*
+### **Story 5: Improve UI/UX** *(Improvement)*
 - **Priority:** Medium  
 - **Estimated Time:** 2 days  
 - **Tasks:**
-  - [ ] **Task 5.1:** Tailwind layout adjustments for mobile – 1 day
+  - [ ] **Task 5.1:** Layout adjustments – 1 day
   - [ ] **Task 5.2:** Improve color palette, buttons, spacing – 1 day
 
 ---
