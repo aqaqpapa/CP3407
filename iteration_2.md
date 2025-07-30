@@ -55,8 +55,7 @@
 - **Estimated Time:** 2 days  
 - **Tasks:**
   - [ ] **Task 3.1:** Improve messaging UI – 1 day
-  - [ ] **Task 3.2:** Add real-time communication (Socket.io or polling) – 0.7 day
-  - [ ] **Task 3.3:** Final backend testing and error handling – 0.3 day
+  - [ ] **Task 3.2:** Final backend testing and error handling – 0.3 day
 
 ---
 
@@ -83,23 +82,11 @@
 - **Priority:** Low  
 - **Estimated Time:** 3 days  
 - **Tasks:**
-  - [ ] **Task 6.1:** Install and configure Cypress or Playwright – 0.5 day
-  - [ ] **Task 6.2:** Write test flows for login, booking, payment – 2 days
-  - [ ] **Task 6.3:** Compile report and test summary – 0.5 day
+  - [ ] **Task 6.1:** Write test flows for login, booking, payment – 2 days
+  - [ ] **Task 6.2:** Compile report and test summary – 1 day
 
 ---
 
-## 🔄 In Progress
-
-- 🛠 **Task 1.1:** Frontend Deployment to Vercel *(Dev: AL, started 2025-08-05)*  
-- 🛠 **Task 1.3:** Railway DB Connection Setup *(Dev: JS, started 2025-08-06)*
-
----
-
-## ✅ Completed
-
-- ✅ **Task 2.2:** Backend Booking Logic Improvements *(Dev: CK, completed 2025-08-09)*  
-- ✅ **Task 1.2:** Backend Deployment to Render *(Dev: JS, completed 2025-08-10)*
 
 ---
 
