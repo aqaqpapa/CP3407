@@ -40,3 +40,29 @@ A comprehensive set of manual tests were conducted using **Postman** to verify t
   - **Response bodies** (JSON structure and content)
   - **Side effects** (e.g., database changes after POST/PUT)
 ![3](ToolsDia/Test3.png)
+  
+  - ## ✅ Test 3: Full System Testing
+
+After all unit and API-level tests were completed, we conducted a full **end-to-end system test** to ensure that all components work together correctly in a real-world scenario.
+
+### ✦ Scope:
+- Simulated full user workflows through the frontend interface
+- Covered complete functional flows, including:
+  - User registration → login → place order → payment → leave review
+  - Provider viewing and managing incoming bookings
+  - Role-based UI rendering and access control
+
+### ✦ Testing Environments:
+- ✅ **Local Testing:** Verified full functionality in a local development setup using `localhost`, ensuring quick debugging and control.
+- ✅ **Cloud Deployment Testing:** Repeated the same test cases on the deployed backend (e.g., Render) and frontend to ensure cloud compatibility and consistent behavior.
+
+### ✦ Result:
+- All core modules worked correctly with **no runtime errors or logic faults**
+- Seamless interaction confirmed between:
+  - **Frontend (React)**
+  - **Backend API (Express)**
+  - **MySQL database**
+- System correctly handled both **Customer** and **Provider** roles across all tested scenarios
+- Features like booking creation, payment simulation, and review submission were tested successfully from start to finish
+
+> ✅ The system passed all full-cycle test cases, both locally and in the cloud, ensuring a reliable and ready-to-use platform.
