@@ -16,10 +16,10 @@ The following is the list of items, which are required to be completed.
 
 ## Team
 
-It is recommended to complete this assignment in a group of 2-4 students.
-1. Jiaqi Shi
-2. Sirui Li
-3. Qinuo Shen
+Group -- Practial A, Group 3
+1. Jiaqi Shi (user story design, front-end development, back-end development, database design and connection, UI design, overall testing and debugging, cloud deployment)
+2. Sirui Li (Partial github page editing, partial UML design)
+3. Qinuo Shen (Partial user story design)
 
 ## Project Setup
 
