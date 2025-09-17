@@ -45,6 +45,5 @@ Priority: Low
 
 User Story 10
 Title: Set Cleaning Preferences and Special Requests
-Description: As a customer, I want to set my cleaning preferences and special requirements in the app so that cleaning service providers can better meet my needs.
+Description: To help cleaning service providers better serve my needs, I, as a consumer, wish to customize the app with my cleaning preferences and unique needs.
 Priority: Low
-
